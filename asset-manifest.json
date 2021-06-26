@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Breact-test-task%7D/static/css/main.25017649.chunk.css",
+    "main.js": "/%7Breact-test-task%7D/static/js/main.58521ba5.chunk.js",
+    "main.js.map": "/%7Breact-test-task%7D/static/js/main.58521ba5.chunk.js.map",
+    "runtime-main.js": "/%7Breact-test-task%7D/static/js/runtime-main.7049f39b.js",
+    "runtime-main.js.map": "/%7Breact-test-task%7D/static/js/runtime-main.7049f39b.js.map",
+    "static/js/2.8c373ca8.chunk.js": "/%7Breact-test-task%7D/static/js/2.8c373ca8.chunk.js",
+    "static/js/2.8c373ca8.chunk.js.map": "/%7Breact-test-task%7D/static/js/2.8c373ca8.chunk.js.map",
+    "static/js/3.8402aa98.chunk.js": "/%7Breact-test-task%7D/static/js/3.8402aa98.chunk.js",
+    "static/js/3.8402aa98.chunk.js.map": "/%7Breact-test-task%7D/static/js/3.8402aa98.chunk.js.map",
+    "index.html": "/%7Breact-test-task%7D/index.html",
+    "static/css/main.25017649.chunk.css.map": "/%7Breact-test-task%7D/static/css/main.25017649.chunk.css.map",
+    "static/js/2.8c373ca8.chunk.js.LICENSE.txt": "/%7Breact-test-task%7D/static/js/2.8c373ca8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7049f39b.js",
+    "static/js/2.8c373ca8.chunk.js",
+    "static/css/main.25017649.chunk.css",
+    "static/js/main.58521ba5.chunk.js"
+  ]
+}
